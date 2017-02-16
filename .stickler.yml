@@ -1,4 +1,0 @@
-linters:
-    flake8:
-files:
-    ignore: ['stickler/dummy.py']
